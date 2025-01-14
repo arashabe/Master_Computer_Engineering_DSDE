@@ -12,19 +12,21 @@ A characteristic of the Computer Engineer will be to possess, in addition to a s
 The DSDE pathway provides advanced knowledge of engineering, mathematical, and statistical techniques for the acquisition, integration, management, analysis, and visualization of large datasets. It includes courses related to statistical methods and advanced data management technologies.
 
 **Selected Courses:**
-- **MODELS AND ALGORITHMS FOR OPTIMIZATION**
-- **ARTIFICIAL INTELLIGENCE**
-- **ADVANCED PROGRAMMING**
-- **DESIGN, ALGORITHMS AND COMPUTABILITY**
-- **INFORMATION AND TRANSMISSION THEORY**
-- **DEEP LEARNING**
-- **ADAPTIVE LEARNING, ESTIMATION AND SUPERVISION OF DYNAMICAL SYSTEMS**
-- **ADVANCED DATA MANAGEMENT**
-- **DATABASES 2**
-- **FORMAL LANGUAGES AND COMPILERS**
-- **TELECOMMUNICATION NETWORKS**
-- **STATISTICAL LEARNING AND OPTIMIZATION**
-- **STATISTICS FOR HIGH DIMENSIONAL DATA**
+
+- Models and Algorithms for Optimization
+- Artificial Intelligence
+- Advanced Programming
+- Design, Algorithms and Computability
+- Information and Transmission Theory
+- Deep Learning
+- Adaptive Learning, Estimation and Supervision of Dynamical Systems
+- Advanced Data Management
+- Databases 2
+- Formal Languages and Compilers
+- Telecommunication Networks
+- Statistical Learning and Optimization
+- Statistics for High Dimensional Data
+
 
 
 

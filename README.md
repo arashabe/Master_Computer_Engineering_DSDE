@@ -93,3 +93,29 @@ The application allows users to:
 
 ---
 
+### [Adaptive Learning, Estimation And Supervision Of Dynamical Systems](https://unibg.coursecatalogue.cineca.it/insegnamenti/2024/8244_43621_16329/2021/8244/89?coorte=2023&schemaid=77316)
+
+#### Course Description
+In the Adaptive Learning, Estimation And Supervision Of Dynamical Systems course, we explored a diverse range of topics and methodologies essential for understanding and implementing adaptive learning and estimation techniques in dynamic systems. The main topics of the course include:
+
+- **Recursive Least Squares Algorithm (RLS):** Fundamental concepts and practical applications.
+- **Instrumental Variables (IV):** Methods and their significance in dynamic system estimation.
+- **Oblivion Factor:** Techniques for handling time-variant systems.
+- **Least Mean Squares Algorithm (LMS):** Overview and applications in adaptive filtering.
+- **PEM Identification:** Approaches for identifying systems within a closed-loop setting and comparison with open-loop identification.
+- **Review Of Linear Algebra Concepts:** Essential theories and applications in estimation.
+- **State Space Modeling:** Estimation of dynamic models using N4SID and MOESP methods, and their extension to MIMO systems.
+- **Model-Based Fault Diagnosis:** Introduction to fault diagnosis, including additive and multiplicative faults, parity space, and observer approaches.
+- **Robust Diagnosis:** Strategies for fault diagnosis against disturbances, signal-based fault diagnosis, and knowledge-based approaches.
+- **Statistical Process Monitoring (SPM):** Techniques for monitoring processes and identifying faults using the RLS-based approach.
+
+#### Project
+This project aims to study and reproduce the results of the paper: **[A Robust Variable Forgetting Factor Recursive Least-Squares Algorithm For System Identification](https://ieeexplore.ieee.org/document/4639569)** by Constantin Paleologu, Jacob Benesty, And Silviu Ciochină.
+
+The objective is to demonstrate the performance of the VFF-RLS algorithm in system identification tasks, particularly in the presence of noise and abrupt system changes. The project involves implementing the VFF-RLS algorithm in MATLAB, analyzing its performance, and comparing the results with those presented in the paper.
+
+**Technologies Used:** MATLAB
+
+**Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/Variable-Forgetting-Factor-RLS)
+
+---

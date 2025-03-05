@@ -116,6 +116,6 @@ The objective is to demonstrate the performance of the VFF-RLS algorithm in syst
 
 **Technologies Used:** MATLAB
 
-**Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/Variable-Forgetting-Factor-RLS)
+**Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/Variable-Forgetting-Factor-Recursive-Least-Squares)
 
 ---

@@ -119,3 +119,37 @@ The objective is to demonstrate the performance of the VFF-RLS algorithm in syst
 **Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/Variable-Forgetting-Factor-Recursive-Least-Squares)
 
 ---
+
+
+### [Statistics for High Dimensional Data and CompStat Lab](https://unibg.coursecatalogue.cineca.it/insegnamenti/2024/8244_43632_21827/2021/8244/89?coorte=2023&schemaid=77318)
+
+#### Course Description
+The Statistics for High Dimensional Data and CompStat Lab course provides a comprehensive foundation in analyzing spatio-temporal data sets—datasets associated with phenomena evolving across space and time. The course focuses on statistical methodologies and modeling techniques designed to capture spatial and temporal correlations, predict outcomes, and quantify prediction uncertainties. 
+
+Students gain hands-on experience with the **MATLAB** and **R** programming environments, enabling them to estimate spatio-temporal statistical models and carry out spatial and temporal predictions effectively.
+
+Key topics covered include:
+- **Spatio-Temporal Data Analysis:** Methods for understanding spatial and temporal dependencies.
+- **Statistical Modeling:** Tools for describing correlations and uncertainty in spatio-temporal datasets.
+- **Predictive Modeling:** Techniques for forecasting outcomes in space and time.
+- **Software Utilization:** Practical experience with MATLAB and R for spatio-temporal analysis.
+
+#### Project
+This project focuses on analyzing Washington, DC’s bike-sharing system by employing spatio-temporal models to uncover demand patterns and enhance urban mobility. The study integrates bike rental data with weather and temporal variables to evaluate the effects of external factors on usage patterns. Additionally, two predictive models are compared for accuracy: the **Dynamic Coregionalization Model (DCM)** and the **Hidden Dynamic Geostatistical Model (HDGM)**. 
+
+**Objectives:**
+- Investigate the influence of weather and time on bike-sharing demand.
+- Compare the predictive accuracy of DCM and HDGM models.
+- Develop data-driven strategies for optimizing bike allocation and improving service efficiency.
+
+**Technologies and Tools Used:**
+- **Data Preprocessing & EDA:** Cleaned and analyzed data using Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
+- **Modeling Approaches:**
+  - **DCM:** A hierarchical model capturing spatio-temporal dependencies.
+  - **HDGM:** A latent process model for dynamic geospatial patterns.
+- **Tools:** Implemented and validated the models in MATLAB (D-STEM v2) using cross-validation.
+
+
+**Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/BikeSpatioTemporal-Analysis)
+
+---

@@ -153,3 +153,48 @@ This project focuses on analyzing Washington, DC’s bike-sharing system by empl
 **Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/BikeSpatioTemporal-Analysis)
 
 ---
+
+### [Statistical Learning](https://unibg.coursecatalogue.cineca.it/insegnamenti/2024/38091-MOD2/2021/8865/89?coorte=2024&adCodRadice=38091)
+
+#### **Course Description**
+The **Statistical Learning** course provides students with essential methods and tools to extract meaningful insights from complex datasets for decision-making. The course emphasizes understanding dataset complexity, recognizing correlation structures, selecting appropriate methodologies for information extraction, and implementing algorithms efficiently.
+
+Students develop practical skills in **data preprocessing, classification, clustering, regression techniques, and model validation**, applying various statistical learning approaches to real-world problems.
+
+Key topics covered include:
+- **Regression Shrinkage Methods:** Stepwise regression, Ridge regression, and Lasso.
+- **Classification Techniques:** Linear discriminant analysis, logistic regression.
+- **Clustering Methods:** Unsupervised learning approaches for grouping data.
+- **Kernel Smoothing:** Non-parametric techniques for pattern recognition.
+- **Polynomial & Spline Models:** Advanced regression techniques.
+- **Functional Data & Regression:** Methods for analyzing functional datasets.
+- **Model Validation & Selection:** Strategies for evaluating model effectiveness.
+- **Monte Carlo & Bootstrap Methods:** Simulation-based techniques for statistical inference.
+
+#### **Project**
+This project focuses on estimating **obesity levels** in individuals from Mexico, Peru, and Colombia using machine learning classification models. By analyzing dietary habits and physical conditions, the study aims to identify key patterns and improve prediction accuracy in obesity assessment.
+
+**Objectives:**
+- Predict obesity levels based on lifestyle and health indicators.
+- Compare the performance of different classification models.
+- Enhance prediction accuracy using optimized machine learning techniques.
+
+**Methodology & Tools Used:**
+- **Data Preprocessing & EDA:** Standardization, **PCA** for dimensionality reduction, and **SMOTE** for class balancing.
+- **Classification Models:**
+  - **Decision Tree:** Simple interpretable model.
+  - **Random Forest:** Ensemble learning for improved accuracy.
+  - **AdaBoost:** Boosting technique for model optimization.
+  - **SVM:** Support Vector Machine for effective classification.
+  - **Logistic Regression:** Probabilistic approach to classification.
+- **Optimization & Validation:**
+  - **Hyperparameter Tuning:** **GridSearchCV** for optimal parameter selection.
+  - **Cross-Validation:** **5-Fold CV** to ensure robustness.
+  - **Evaluation Metrics:** Accuracy, **F1 Score**, Confusion Matrix, Precision, Recall.
+
+**Technologies Used:** Python libraries including **Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn** for data analysis, modeling, and visualization.
+
+**Link to Project on GitHub:** [Link to the project](https://github.com/arashabe/ML_Obesity_Estimation)
+
+---
+
